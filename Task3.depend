@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589319112 source:f:\task 3\task3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
